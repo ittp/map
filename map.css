@@ -1,0 +1,10 @@
+#map {
+    display: flex;
+    width: 90vw;
+    height: 50vh;
+    border: 1px solid;
+    box-sizing: content-box;
+    margin: 0 auto;
+   
+    flex-direction: row;
+}
